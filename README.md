@@ -1,2 +1,1 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=wikomiks&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=python,js,ts,cs,cpp&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H1WWT7U)
